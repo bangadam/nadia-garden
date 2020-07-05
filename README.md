@@ -10,6 +10,8 @@ Nadia Garden Restaurant project is simple website using laravel 7 framework and 
 3. `php artisan migrate && php artisan db:seed`
 4. enjoy the project
 
+## Demo
+http://167.172.70.208:8006/
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
